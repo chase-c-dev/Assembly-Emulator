@@ -2,7 +2,7 @@
 C program that emulates assembly and runs based off of arrays with programs converted to hexadecimal.
 
 # How The Program Works
-Program contains methods in C that represent well known assembly commands.
+Program contain methods in C that represent well known assembly commands.
 Program runs based off of an array in main that contains assembly code converted to hexadecimal.
 By manipulating bits and using if statements, the hexadecimal is translated and refers to the assembly commands coded in the program.
 Each assembly command is then executed and the result can be seen in the output of the terminal.
